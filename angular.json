@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jwt-demo-angular"
+    }
+  },
+  "defaultProject": "jwt-demo-angular",
+  "cli": {
+    "analytics": false
+  }
 }
